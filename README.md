@@ -30,7 +30,7 @@
 | **[IntercomClassifier](https://github.com/Jlisowskyy/intro-ml-2024)** | Audio-based access control system using CNNs on spectrograms of audio samples to distinguish between authorized and unauthorized individuals. | Python, PyTorch, scikit-learn |
 | **[Audio Analyzer](https://github.com/KwiatkowskiML/aipd_p1)**| A WAV audio analysis tool that visualizes waveforms, extracts features like volume, STE, ZCR, and F0, and detects silence while classifying voiced/unvoiced segments. | Python, NumPy, tkinter |
 | **[MIDI Embedder](https://github.com/Kolo-Naukowe-Data-Science-PW/bert-embeddings)**| Currently wokring on a Transformer-based encoder for symbolic piano music, inspired by BERT, using CP token representation to efficiently process MIDI data. | Python, PyTorch, Transformers, NumPy |
-| **[Resellio](https://github.com/KwiatkowskiML/IO2)**| Currently developing on a ticketing platform built with Flutter and FastAPI that streamlines buying, selling, and managing event tickets. | Python, Flutter, Dart, FastAPI |
+| **[Resellio](https://github.com/KwiatkowskiML/IO2)**| Currently developing a ticketing platform built with Flutter and FastAPI that streamlines buying, selling, and managing event tickets. | Python, Flutter, Dart, FastAPI |
 ---
 
 ## 🛠️ Languages and Technologies
